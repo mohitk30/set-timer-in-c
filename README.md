@@ -1,2 +1,4 @@
-# set-timer-in-c
-in this you can start timer for you or other and check timer that hoe much time it take 
+# Clock in C
+In This You Can Make A Timer for you And Notice time
+# IN UBUNTO
+And set timer
